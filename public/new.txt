@@ -1,0 +1,8 @@
+
+ // for meloop=()=>{
+  //   var i;
+  //   for (i=0; i<state.persons.length; i++){
+  //     var name=state.persons[i].name;
+  //     let age=state.persons[i].age;
+  //   }
+  // } 
